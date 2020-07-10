@@ -7,6 +7,6 @@ I love work with React and React Native, but I also work on back-end with node a
 - 🌱 I’m currently learning React Native and NextJS
 - 📫 How to reach me:
   - Email: lucas-m@outlook.com
-  - Twitter: (@\__lucas_lm)[https://twitter.com/\__lucas_lm]
+  - Twitter: [@\__lucas_lm](https://twitter.com/\__lucas_lm)
   - linkedin: https://www.linkedin.com/in/lucas-lm/
 - ⚡ Fun fact: I only wear blue clothes
