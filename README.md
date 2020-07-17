@@ -8,7 +8,7 @@
 I am a 25 y/o web and mobile developer. 
 I love work with React and React Native, but I also work on back-end with node and express.
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on my personal website. [Check it out!](https://lucas-lm.github.io)
 - 🌱 I’m currently learning React Native and NextJS
 - 📫 How to reach me:
   - Email: lucas-m@outlook.com
