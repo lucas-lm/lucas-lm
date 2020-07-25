@@ -1,4 +1,4 @@
-# Lucas Miranda | @lucas-lm
+# :octocat: Lucas Miranda | @lucas-lm
 
 [![Website](https://img.shields.io/badge/website--000?style=social&logo=google-chrome&logoColor=black&link=https://lucas-lm.github.io)](https://lucas-lm.github.io)
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/lucas-lm)](https://github.com/lucas-lm)
