@@ -1,4 +1,4 @@
-![octocat](/assets/octocat_repo.png)
+![octocat](https://github.com/lucas-lm/lucas-lm/blob/master/assets/octocat_repo.png)
 
 # :octocat: Lucas Miranda | @lucas-lm
 
