@@ -14,7 +14,7 @@ I am a web and mobile developer.
 I love to work with React and React Native, but I also work on back-end with node and express.
 
 <p align='center'>
-  <a href="about-me">About me</a>
+  <a href="#about-me">About me</a>
   ·
   <a href="#github-stats">GitHub Stats</a>
   ·
