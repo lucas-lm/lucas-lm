@@ -1,3 +1,5 @@
+![octocat](/assets/octocat_repo.png)
+
 # :octocat: Lucas Miranda | @lucas-lm
 
 [![Website](https://img.shields.io/badge/website--000?style=social&logo=google-chrome&logoColor=black&link=https://lucas-lm.github.io)](https://lucas-lm.github.io)
