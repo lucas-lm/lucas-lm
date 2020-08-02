@@ -1,4 +1,6 @@
-![octocat](https://github.com/lucas-lm/lucas-lm/blob/master/assets/octocat_repo.png)
+<p align="center">
+  <img width="300" src="assets/octocat_repo.png" alt="octocat">
+</p>
 
 # :octocat: Lucas Miranda | @lucas-lm
 
@@ -11,17 +13,20 @@
 I am a web and mobile developer. 
 I love to work with React and React Native, but I also work on back-end with node and express.
 
-<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></p>
+<p align='center'>
+  <a href="about-me">About me</a>
+  ·
+  <a href="#github-stats">GitHub Stats</a>
+  ·
+  <a href="#skills-check">My Skillset</a>
+</p>
+
+## About me
 
 - 🌱 I’m currently learning typescript, next.js and react native
 - 💬 Ask me about **React** and **React Native**
 - 📫 How to reach me: **lucas-m@outlook.com**
 
-## I want to learn
-
-- Adonis.js
-- GraphQL
-- Firebase
 
 ## GitHub stats
 
@@ -30,4 +35,43 @@ I love to work with React and React Native, but I also work on back-end with nod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lm&layout=compact" alt="lucas top languages" /> 
 </p>
 
+## Skills check
 
+See what I got bellow
+
+### I want to learn
+
+- [ ] Adonis.js
+- [ ] GraphQL
+- [ ] Firebase
+- [ ] Docker
+
+### What do I actually know?
+
+<details open>
+  <summary>Langs</summary>
+  <ol>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Python</li>
+  </ol>
+</details>
+
+<details>
+  <summary>Frameworks</summary>
+  <ol>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>React Native</li>
+  </ol>
+</details>
+
+### What I know, but still have to study more
+
+<details open>
+  <summary>Services</summary>
+  <ol>
+    <li>AWS</li>
+    <li>GCloud</li>
+  </ol>
+</details>
