@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="assets/octocat_repo.png" alt="octocat">
+  <img width="300" src="https://github.com/lucas-lm/lucas-lm/blob/master/assets/octocat_repo.png" alt="octocat">
 </p>
 
 # :octocat: Lucas Miranda | @lucas-lm
