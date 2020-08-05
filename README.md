@@ -30,10 +30,11 @@ I love to work with React and React Native, but I also work on back-end with nod
 
 ## GitHub stats
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-lm&show_icons=true" alt="lucas github stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lm&layout=compact" alt="lucas top languages" /> 
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=lucas-lm&show_icons=true" alt="lucas github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lm&layout=compact" alt="lucas top languages" height=200/> |
+|---|---|
+   
+   
+
 
 ## Skills check
 
