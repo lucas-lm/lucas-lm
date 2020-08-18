@@ -32,20 +32,14 @@ I love to work with React and React Native, but I also work on back-end with nod
 
 | <img src="https://github-readme-stats.vercel.app/api?username=lucas-lm&show_icons=true" alt="lucas github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lm&layout=compact" alt="lucas top languages" height=200/> |
 |---|---|
-   
-   
-
 
 ## Skills check
 
 See what I got bellow
 
-### I want to learn
+### My learning journey
 
-- [ ] Adonis.js
-- [ ] GraphQL
-- [ ] Firebase
-- [ ] Docker
+[![Now I Know](https://github-readme-stats.vercel.app/api/pin/?username=lucas-lm&repo=nowiknow)](https://github.com/lucas-lm/nowiknow)
 
 ### What do I actually know?
 
