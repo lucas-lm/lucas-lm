@@ -1,11 +1,14 @@
 {
   "name": "lucas-lm",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/lucas-lm/lucas-lm",
   "author": "Lucas Miranda <lucas-m@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "build": "node"
+    "build": "mustache data.json README.mustache > README.md"
+  },
+  "dependencies": {
+    "mustache": "^4.0.1"
   }
 }
