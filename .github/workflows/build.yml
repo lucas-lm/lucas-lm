@@ -17,13 +17,16 @@ jobs:
         script: |
           const { data: issues } = await github.issues.listForRepo({
             owner: 'lucas-lm', 
-            repo: 'nowiknow' 
+            repo: 'nowiknow',
+            creator: 'lucas-lm',
+            labels: ['learning'],
+            state: 'open'
           })
           const learning = issues.map(issue => issue.title)
           return JSON.stringify({ learning })
 
     - name: Update data
-      run: echo "${{steps.fetch-data.outputs.result}}" && echo "${{steps.fetch-data.outputs.result}}" >> data.json
+      run: echo ${{steps.fetch-data.outputs.result}} > data.json && cat data.json
       
     - name: Use Node.js
       uses: actions/setup-node@v1
