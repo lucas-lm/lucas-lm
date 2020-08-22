@@ -20,7 +20,7 @@ jobs:
             repo: 'nowiknow' 
           })
           const learning = issues.map(issue => issue.title)
-          return { learning }
+          return JSON.stringify({ learning })
 
     - name: Update data
       run: echo "${{steps.fetch-data.outputs.result}}" && echo "${{steps.fetch-data.outputs.result}}" >> data.json
