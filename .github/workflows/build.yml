@@ -19,6 +19,7 @@ jobs:
             owner: 'lucas-lm', 
             repo: 'nowiknow' 
           })
+          console.log(result)
           const learning = result.map(issue => issue.title)
           return { learning }
 
