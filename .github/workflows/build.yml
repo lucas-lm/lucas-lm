@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Fetch data from API
-      - uses: actions/github-script@v3
+      uses: actions/github-script@v3
         id: fetch-data
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
