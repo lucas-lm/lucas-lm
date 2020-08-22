@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Build readme
 
 on: [workflow_dispatch]
 
