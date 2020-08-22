@@ -16,8 +16,8 @@ jobs:
         github-token: ${{secrets.GITHUB_TOKEN}}
         script: |
           const result = await github.issues.listForRepo({
-            owner: lucas-lm, 
-            repo: nowiknow 
+            owner: 'lucas-lm', 
+            repo: 'nowiknow' 
           })
           const learning = result.map(issue => issue.title)
           return { learning }
