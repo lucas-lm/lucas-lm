@@ -11,16 +11,16 @@ jobs:
     - uses: actions/checkout@v2
     - name: Fetch data from API
       uses: actions/github-script@v3
-        id: fetch-data
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            const result = await github.issues.listForRepo({
-              owner: lucas-lm, 
-              repo: nowiknow 
-            })
-            const learning = result.map(issue => issue.title)
-            return { learning }
+      id: fetch-data
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const result = await github.issues.listForRepo({
+            owner: lucas-lm, 
+            repo: nowiknow 
+          })
+          const learning = result.map(issue => issue.title)
+          return { learning }
 
     - name: Update data
       run: echo "${{steps.fetch-data.outputs.result}}" >> data.json
