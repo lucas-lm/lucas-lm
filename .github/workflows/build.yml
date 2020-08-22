@@ -23,7 +23,7 @@ jobs:
           return { learning }
 
     - name: Update data
-      run: echo "${{steps.fetch-data.outputs.result}}" >> data.json
+      run: echo "${{steps.fetch-data.outputs.result}}" && echo "${{steps.fetch-data.outputs.result}}" >> data.json
       
     - name: Use Node.js
       uses: actions/setup-node@v1
