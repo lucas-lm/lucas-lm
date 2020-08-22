@@ -19,9 +19,12 @@ I love to work with React and React Native, but I also work on back-end with nod
 
 ## About me
 
-- 🌱 I’m currently learning typescript, next.js and react native
 - 💬 Ask me about **React** and **React Native**
 - 📫 How to reach me: **lucas-m@outlook.com**
+- 🌱 I’m currently studying:
+  - GraphQL
+  - Next.js
+:robot: __This list is automatically updated by my robots__ :robot:
 
 ## Skillset
 
