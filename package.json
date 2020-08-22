@@ -1,0 +1,11 @@
+{
+  "name": "lucas-lm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucas-lm/lucas-lm",
+  "author": "Lucas Miranda <lucas-m@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node"
+  }
+}
