@@ -22,7 +22,6 @@ I love to work with React and React Native, but I also work on back-end with nod
 - 💬 Ask me about **React** and **React Native**
 - 📫 How to reach me: **lucas-m@outlook.com**
 - 🌱 I’m currently studying:
-  - JavaScript Iterators and Generators
   - Redux
 
 :robot: __This list is automatically updated by my robots__ :robot:
