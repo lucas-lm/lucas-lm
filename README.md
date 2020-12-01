@@ -22,7 +22,7 @@ My name is Lucas Miranda and I am a web/mobile developer working with React, Rea
 const me = {
   name: 'Lucas Miranda',
   age: 25,
-  company: 'ambev'
+  company: null, // Hire me :)
   langs: ['TypeScript', 'JavaScript', 'Python'],
   likesToDo: ['Coding', 'Playing games', 'Watching series and movies'],
   favorite: {
