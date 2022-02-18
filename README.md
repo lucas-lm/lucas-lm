@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter--000?style=social&logo=twitter&logoColor=1DA1F2&link=https://www.twitter.com/__lucas_lm/)](https://www.twitter.com/__lucas_lm/)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:lucas-m@outlook.com)](mailto:lucas-m@outlook.com)
 
-My name is Lucas Miranda and I am an intern at Anhauser-Busch InBev. 
+My name is Lucas Miranda and I am a Data Reliability Engineer at Anhauser-Busch InBev. 
 
 <p align='center'>
   <a href="#about-me">About me</a>
