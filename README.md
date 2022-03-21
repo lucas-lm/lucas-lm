@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/lucas-lm/)](https://www.linkedin.com/in/lucas-lm/)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:lucas-m@outlook.com)](mailto:lucas-m@outlook.com)
 
-My name is Lucas Miranda and I am a Data Reliability Engineer at Anhauser-Busch InBev. 
+I am a Data Reliability Engineer at Anhauser-Busch InBev and voluntary front-end developer at Tech Pro Bem.
 
 <p align='center'>
   <a href="#about-me">About me</a>
